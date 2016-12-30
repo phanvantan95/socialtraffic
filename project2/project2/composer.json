@@ -57,10 +57,5 @@
         "incenteev-parameters": {
             "file": "app/config/parameters.yml"
         }
-		
-		"heroku": {
-            "framework": "symfony2",
-            "document-root": "web",
-        }
     }
 }
